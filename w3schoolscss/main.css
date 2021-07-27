@@ -1,0 +1,77 @@
+
+
+.main{
+   padding-left: 20%;
+   margin-bottom: 140px;
+   font-style:oblique
+}
+
+button{
+   border-radius: 7px;
+   color: green;
+   background-color: cyan
+    
+}
+
+.button{
+   color: maroon;
+   background-color: darkmagenta;
+   
+}
+
+.sedan{
+  color: blueviolet;
+  /* font-style: normal; */
+}
+.box1{
+   border: black solid;
+   width: 220px;
+   float: left;
+   color: white;
+   padding-left: 10px ;
+   padding-bottom: 50px;
+   text-align: center;
+   background-color: green;
+   border-radius: 10px;
+   
+}
+
+.suv{
+   color: chartreuse;
+}
+
+.box2{
+   border: black solid;
+   width: 220px;
+   float: left;
+   color: white;
+   padding-left: 10px ;
+   padding-bottom: 50px;
+   text-align: center;
+   background-color: blue;
+   border-radius: 10px;
+
+}
+.luxury{
+   color: mediumvioletred;
+   padding: auto;
+}
+
+.box3{
+   border: black solid;
+   width: 220px;
+   background-color: orange;
+   float: left;
+   color: white;
+   padding-left: 10px ;
+   padding-bottom: 50px;
+   text-align: center;
+   border-radius: 10px;
+  
+}
+
+
+
+  
+
+  

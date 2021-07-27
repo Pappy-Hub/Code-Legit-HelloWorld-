@@ -1,0 +1,44 @@
+body{
+    background-color:hsl(218, 28%, 13%);
+    color: whitesmoke;
+}
+
+/* section 1 css start for destop start here here  */
+
+.sec1_img{
+    margin-top: 4em;
+    margin-left: 20em;
+    width: 55%;
+}
+
+.sec1_div{
+    margin: 0 20em;
+
+}
+
+.sec1_div > h1{
+    text-align: center;
+    font-size: 2em;
+    width: 80%;
+    margin: 0 0 0 82px;
+}
+
+.sec1_div > p {
+    text-align: center;
+    font-size: 1em;
+    width: 70%;
+    margin: 2em 0 0 120px;
+}
+
+.sec1_div > button {
+    text-align: center;
+    font-size: 1em;
+    width: 15em;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #42B0D1;
+    margin: 2em 0 20px 235px;
+    color: white;
+    outline: none;
+    border-color: white;
+}
